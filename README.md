@@ -23,6 +23,7 @@ It uses Retrieval-Augmented Generation (RAG) to retrieve relevant policy section
 
 ## 📂 Project Structure
 
+```
 hr_chatbot/
 │
 ├── main.py                # Streamlit chatbot UI
@@ -41,6 +42,7 @@ hr_chatbot/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 ## ⚙️ Installation
 
