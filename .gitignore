@@ -1,0 +1,8 @@
+
+
+pycache
+venv/
+test_env/
+.env
+chroma_db/
+.streamlit/
