@@ -49,8 +49,8 @@ hr_chatbot/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/hr-chatbot.git
-cd hr-chatbot
+git clone https://github.com/Vishalgeeks/HR_Policy_Chatbot.git
+cd HR_Policy_Chatbot
 ```
 
 2. Create virtual environment
